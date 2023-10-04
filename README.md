@@ -1,3 +1,1 @@
-Hi
-
-System.out.println("Hellow world");
+이것저것 공부하는 연습장
